@@ -1,6 +1,4 @@
 # Project_2
  Project 2
 
-
-
-Answers Folder = Reference.
+Jupyter code in Resources folder
